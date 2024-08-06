@@ -27,6 +27,8 @@
       ]
     }
     //산화
+
+ ,{"role":"user","content":msg}
   ],
   "temperature": 0.5,
   "max_tokens": 300,
