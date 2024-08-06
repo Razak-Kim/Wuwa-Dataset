@@ -34,4 +34,4 @@ let data = {
   "frequency_penalty": 0.5,
   "presence_penalty": 0.2
 }
-
+//코드끝
