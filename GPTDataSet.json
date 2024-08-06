@@ -1,4 +1,4 @@
-let data = {
+{
   "model": "gpt-4o-mini",
   "messages": [
     {
