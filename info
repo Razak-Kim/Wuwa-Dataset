@@ -1,4 +1,4 @@
-[
+{
     {
         "name": "산화",
         "info": "https://ww.hakush.in/character/1102",
@@ -167,4 +167,4 @@
         "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_19_UI.webp",
         "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
     }
-]
+}
