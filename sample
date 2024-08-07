@@ -1,9 +1,170 @@
+[
     {
-      "role": "assistant",
-      "content": [
-        {
-          "type": "text",
-          "text": "{"Name\": \"장리\",\n    \"NickName\": \"오류 발생, 문의 사항이 있으실 경우 고객센터로 연락주시기 바랍니다\",\n    \"Desc\": \"금주 영윤의 참사, 명정의 전 중정성 장사.\\n화염과 함께하는 삶, 언젠가는 자신을 불태워버릴 책략가. 마음속 소원을 이루기 위해 자신을 바둑판에 놓음으로써 더욱 큰 그림을 그린다\",\n }"
-        }
-      ]
+        "name": "산화",
+        "info": "https://ww.hakush.in/character/1102",
+        "json": "https://api.hakush.in/ww/data/ko/character/1102.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementIce.webp"
+    },
+    {
+        "name": "설지",
+        "info": "https://ww.hakush.in/character/1103",
+        "json": "https://api.hakush.in/ww/data/ko/character/1103.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_6_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementIce.webp"
+    },
+    {
+        "name": "능양",
+        "info": "https://ww.hakush.in/character/1104",
+        "json": "https://api.hakush.in/ww/data/ko/character/1104.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementIce.webp"
+    },
+    {
+        "name": "절지",
+        "info": "https://ww.hakush.in/character/1105",
+        "json": "https://api.hakush.in/ww/data/ko/character/1105.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_27_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementIce.webp"
+    },
+    {
+        "name": "치샤",
+        "info": "https://ww.hakush.in/character/1202",
+        "json": "https://api.hakush.in/ww/data/ko/character/1202.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_2_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementFire.webp"
+    },
+    {
+        "name": "앙코",
+        "info": "https://ww.hakush.in/character/1203",
+        "json": "https://api.hakush.in/ww/data/ko/character/1203.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_8_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementFire.webp"
+    },
+    {
+        "name": "모르테피",
+        "info": "https://ww.hakush.in/character/1204",
+        "json": "https://api.hakush.in/ww/data/ko/character/1204.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementFire.webp"
+    },
+    {
+        "name": "장리",
+        "info": "https://ww.hakush.in/character/1205",
+        "json": "https://api.hakush.in/ww/data/ko/character/1205.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_26_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementFire.webp"
+    },
+    {
+        "name": "카카루",
+        "info": "https://ww.hakush.in/character/1301",
+        "json": "https://api.hakush.in/ww/data/ko/character/1301.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_18_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementThunder.webp"
+    },
+    {
+        "name": "음림",
+        "info": "https://ww.hakush.in/character/1302",
+        "json": "https://api.hakush.in/ww/data/ko/character/1302.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_17_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementThunder.webp"
+    },
+    {
+        "name": "연무",
+        "info": "https://ww.hakush.in/character/1303",
+        "json": "https://api.hakush.in/ww/data/ko/character/1303.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_15_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementThunder.webp"
+    },
+    {
+        "name": "금희",
+        "info": "https://ww.hakush.in/character/1304",
+        "json": "https://api.hakush.in/ww/data/ko/character/1304.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
+    },
+    {
+        "name": "상리요",
+        "info": "https://ww.hakush.in/character/1305",
+        "json": "https://api.hakush.in/ww/data/ko/character/1305.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_25_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementThunder.webp"
+    },
+    {
+        "name": "양양",
+        "info": "https://ww.hakush.in/character/1402",
+        "json": "https://api.hakush.in/ww/data/ko/character/1402.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_1_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementWind.webp"
+    },
+    {
+        "name": "알토",
+        "info": "https://ww.hakush.in/character/1403",
+        "json": "https://api.hakush.in/ww/data/ko/character/1403.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_12_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementWind.webp"
+    },
+    {
+        "name": "기염",
+        "info": "https://ww.hakush.in/character/1404",
+        "json": "https://api.hakush.in/ww/data/ko/character/1404.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementWind.webp"
+    },
+    {
+        "name": "감심",
+        "info": "https://ww.hakush.in/character/1405",
+        "json": "https://api.hakush.in/ww/data/ko/character/1405.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_23_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementWind.webp"
+    },
+    {
+        "name": "방랑자·회절(남)",
+        "info": "https://ww.hakush.in/character/1501",
+        "json": "https://api.hakush.in/ww/data/ko/character/1501.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
+    },
+    {
+        "name": "방랑자·회절(여)",
+        "info": "https://ww.hakush.in/character/1502",
+        "json": "https://api.hakush.in/ww/data/ko/character/1502.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
+    },
+    {
+        "name": "벨리나",
+        "info": "https://ww.hakush.in/character/1503",
+        "json": "https://api.hakush.in/ww/data/ko/character/1503.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_3_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
+    },
+    {
+        "name": "도기",
+        "info": "https://ww.hakush.in/character/1601",
+        "json": "https://api.hakush.in/ww/data/ko/character/1601.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_9_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
+    },
+    {
+        "name": "단근",
+        "info": "https://ww.hakush.in/character/1602",
+        "json": "https://api.hakush.in/ww/data/ko/character/1602.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
+    },
+    {
+        "name": "방랑자·인멸(여)",
+        "info": "https://ww.hakush.in/character/1604",
+        "json": "https://api.hakush.in/ww/data/ko/character/1604.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_16_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
+    },
+    {
+        "name": "방랑자·인멸(남)",
+        "info": "https://ww.hakush.in/character/1605",
+        "json": "https://api.hakush.in/ww/data/ko/character/1605.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_19_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
     }
+]
