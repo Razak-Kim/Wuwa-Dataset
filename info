@@ -26,7 +26,14 @@
         "json": "https://api.hakush.in/ww/data/ko/character/1105.json",
         "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_27_UI.webp",
         "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementIce.webp"
-    },
+    },,
+    {
+        "name": "유호",
+        "info": "https://ww.hakush.in/character/1106",
+        "json": "https://api.hakush.in/ww/data/ko/character/1106.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_31_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementIce.webp"
+    }
     {
         "name": "치샤",
         "info": "https://ww.hakush.in/character/1202",
@@ -137,6 +144,13 @@
         "info": "https://ww.hakush.in/character/1503",
         "json": "https://api.hakush.in/ww/data/ko/character/1503.json",
         "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_3_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
+    },
+    {
+        "name": "파수인",
+        "info": "https://ww.hakush.in/character/1505",
+        "json": "https://api.hakush.in/ww/data/ko/character/1505.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_28_UI.webp",
         "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
     },
     {
