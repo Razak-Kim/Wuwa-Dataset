@@ -147,6 +147,13 @@
         "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
     },
     {
+        "name": "루미",
+        "info": "https://ww.hakush.in/character/1504",
+        "json": "https://api.hakush.in/ww/data/ko/character/1504.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_30_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
+    },
+    {
         "name": "파수인",
         "info": "https://ww.hakush.in/character/1505",
         "json": "https://api.hakush.in/ww/data/ko/character/1505.json",
@@ -165,6 +172,13 @@
         "info": "https://ww.hakush.in/character/1602",
         "json": "https://api.hakush.in/ww/data/ko/character/1602.json",
         "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
+    },
+    {
+        "name": "카멜리아",
+        "info": "https://ww.hakush.in/character/1603",
+        "json": "https://api.hakush.in/ww/data/ko/character/1603.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_29_UI.webp",
         "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
     },
     {
