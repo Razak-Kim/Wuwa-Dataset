@@ -35,6 +35,13 @@
         "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementIce.webp"
     },
     {
+        "name": "카를로타",
+        "info": "https://ww.hakush.in/character/1107",
+        "json": "https://api.hakush.in/ww/data/ko/character/1107.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_32_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementIce.webp"
+    },
+    {
         "name": "치샤",
         "info": "https://ww.hakush.in/character/1202",
         "json": "https://api.hakush.in/ww/data/ko/character/1202.json",
@@ -193,6 +200,13 @@
         "info": "https://ww.hakush.in/character/1605",
         "json": "https://api.hakush.in/ww/data/ko/character/1605.json",
         "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_19_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
+    },
+    {
+        "name": "로코코",
+        "info": "https://ww.hakush.in/character/1606",
+        "json": "https://api.hakush.in/ww/data/ko/character/1606.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_33_UI.webp",
         "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementDark.webp"
     }
 ]
