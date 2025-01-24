@@ -70,7 +70,7 @@
         "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementFire.webp"
     },
     {
-        "name": "브랜트",
+        "name": "브렌트",
         "info": "https://ww.hakush.in/character/1206",
         "json": "https://api.hakush.in/ww/data/ko/character/1206.json",
         "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp",
