@@ -169,6 +169,13 @@
     },
     {
         "name": "파수인",
+        "info": "https://ww.hakush.in/character/1506",
+        "json": "https://api.hakush.in/ww/data/ko/character/1506.json",
+        "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_45_UI.webp",
+        "elementIcon": "https://api.hakush.in/ww/UI/Static/T_IconElementLight.webp"
+    },
+    {
+        "name": "페비",
         "info": "https://ww.hakush.in/character/1505",
         "json": "https://api.hakush.in/ww/data/ko/character/1505.json",
         "img": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_28_UI.webp",
